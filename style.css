@@ -1,0 +1,54 @@
+body{
+    background: linear-gradient(to right top,white,rgb(211, 202, 202),rgb(90, 152, 51),green,darkgreen);
+}
+.menu{
+    font-family:bold;
+   float: right;
+    cursor: pointer;
+    color:black;
+    border-radius: 20px;
+   }
+
+   img{
+    width: 250px;
+    border-radius: 15px;
+   }
+   p{
+    font-family: bold;
+    font-size: larger;
+   }
+   .logo{
+    width: 250px;
+    align-items: center;
+   }
+.news{
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.button{
+    font-family: fantasy;
+    background-color: rgb(235, 230, 230);
+    border-radius: 15px;
+}
+.title{width: 95px;
+
+}
+.news1{
+    text-align: center;
+    background-color: white;
+    font-family: fantasy;
+    border-radius: 15px;
+}
+.back{
+    width: 85px;
+    float: right;
+    background-color: red;
+    border-radius: 15px;
+    font-family: fantasy;
+}
+.insta{
+    align-items: center;
+    width: 25px;
+}
